@@ -1,3 +1,4 @@
+package test1;
 public class test1 {
     // Making Phone a static inner class
     public static class Phone {

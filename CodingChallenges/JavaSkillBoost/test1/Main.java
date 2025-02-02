@@ -1,3 +1,4 @@
+package test1;
 // Define the Car class
 // Main class
 public class main {
